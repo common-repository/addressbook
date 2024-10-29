@@ -1,0 +1,189 @@
+# ADDRESSBOOK PLUGIN FOR WORDPRESS
+# Copyright (C) 2008 Sam Wilson
+# This file is distributed under the same license as WORDPRESS.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: sam@co-operista.com\n"
+"POT-Creation-Date: 2008-04-25 17:53-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: addressbook.php:51 addressbook.php:225
+msgid "Addressbook"
+msgstr ""
+
+#: addressbook.php:76
+msgid ""
+"Note: Because changing this option will move this page, after\n"
+"\t\tchanging it you will be presented with an error.  Just click &lsquo;"
+"back&rsquo; and then\n"
+"\t\tnavigate to the 'Manage &raquo; Addressbook' or 'Options &raquo; "
+"Addressbook' tab."
+msgstr ""
+
+#: addressbook.php:82
+msgid "Give Addressbook its own top-level menu item? "
+msgstr ""
+
+#: addressbook.php:89
+msgid "Update Options"
+msgstr ""
+
+#: addressbook.php:116
+msgid "Address added"
+msgstr ""
+
+#: addressbook.php:117 addressbook.php:127 addressbook.php:172
+msgid "Continue"
+msgstr ""
+
+#: addressbook.php:126
+msgid "The address has been deleted."
+msgstr ""
+
+#: addressbook.php:131
+msgid "Are you sure you want to delete the following address?"
+msgstr ""
+
+#: addressbook.php:141 addressbook.php:269 addressbook.php:369
+msgid "Notes:"
+msgstr ""
+
+#: addressbook.php:145
+msgid "[Yes]"
+msgstr ""
+
+#: addressbook.php:147
+msgid "[No]"
+msgstr ""
+
+#: addressbook.php:171
+msgid "The address has been updated."
+msgstr ""
+
+#: addressbook.php:176
+msgid "Edit Address"
+msgstr ""
+
+#: addressbook.php:181
+msgid "[Cancel]"
+msgstr ""
+
+#: addressbook.php:182
+msgid "Save &raquo;"
+msgstr ""
+
+#: addressbook.php:204
+#, php-format
+msgid "This is version %s of the <strong>Addressbook</strong> plugin."
+msgstr ""
+
+#: addressbook.php:206
+msgid ""
+"Please report any bugs and feature requests at <a href='http://samwilson.id."
+"au/plugins/addressbook'>\n"
+"\t        \tsamwilson.id.au/plugins/addressbook</a>."
+msgstr ""
+
+#: addressbook.php:208
+msgid "Thankyou."
+msgstr ""
+
+#: addressbook.php:210
+msgid "Add new address &darr;"
+msgstr ""
+
+#: addressbook.php:217
+msgid "Filter messages by search term:"
+msgstr ""
+
+#: addressbook.php:218
+msgid "Search&hellip;"
+msgstr ""
+
+#: addressbook.php:223
+msgid "Select an address from below to see its details displayed here."
+msgstr ""
+
+#: addressbook.php:233
+msgid "Name"
+msgstr ""
+
+#: addressbook.php:233
+msgid "Organisation"
+msgstr ""
+
+#: addressbook.php:233
+msgid "Email address"
+msgstr ""
+
+#: addressbook.php:233
+msgid "Phone number"
+msgstr ""
+
+#: addressbook.php:261
+msgid "[Edit]"
+msgstr ""
+
+#: addressbook.php:262
+msgid "[Delete]"
+msgstr ""
+
+#: addressbook.php:285
+msgid "Add Address &raquo;"
+msgstr ""
+
+#: addressbook.php:298
+msgid "First name:"
+msgstr ""
+
+#: addressbook.php:302
+msgid "Surname:"
+msgstr ""
+
+#: addressbook.php:308
+msgid "Organisation:"
+msgstr ""
+
+#: addressbook.php:314
+msgid "Email Address:"
+msgstr ""
+
+#: addressbook.php:320
+msgid "Phone:"
+msgstr ""
+
+#: addressbook.php:326
+msgid "Website:"
+msgstr ""
+
+#: addressbook.php:334
+msgid "Address Line 1:"
+msgstr ""
+
+#: addressbook.php:340
+msgid "Address Line 2:"
+msgstr ""
+
+#: addressbook.php:346
+msgid "Suburb:"
+msgstr ""
+
+#: addressbook.php:350
+msgid "Postcode:"
+msgstr ""
+
+#: addressbook.php:356
+msgid "State or Territory:"
+msgstr ""
+
+#: addressbook.php:362
+msgid "Country:"
+msgstr ""
